@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "68841ca24aed8ab0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eac5eaad5e44b8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4327bed05f48fc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02、模块化开66666.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "871ac7f73d982aef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c41f01eeb472ced9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8835d85b42392353",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3edd4e57863d589f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "190bcbe9cd7d7c60",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf99e69858a6681d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "20ccf4469f589c56",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "02、模块化开66666.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5dff8b71d963e334",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "02、模块化开66666.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "787bc90e53503d6d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "02、模块化开66666.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4327bed05f48fc9a",
+  "lastOpenFiles": [
+    "05、package.mdon 文件.md",
+    "02、模块化开66666.md",
+    "02、模块化开发8888888.md",
+    "02、模块化开发6666666.md",
+    "02、模块化开发7777777.md",
+    "02、模块化开发98989812312.md",
+    "02、模块化开发989898.md",
+    "04、npm.md",
+    "25-学生信息列表页面分析（案例）/students/views/list.art",
+    "21-用户信息的增删改查（案例）/database/user/app.js",
+    "21-用户信息的增删改查（案例）/database/user/package-lock.json",
+    "25-学生信息列表页面分析（案例）/students/model/connect.js",
+    "22-模板引擎/views/common/footer.art",
+    "22-模板引擎/views/04.art",
+    "22-模板引擎/views/06.art",
+    "22-模板引擎/views/03.art",
+    "22-模板引擎/views/02.art",
+    "25-学生信息列表页面分析（案例）/students/views/index.art",
+    "内置对象/03、http 模块.md",
+    "19、mongoose 验证.md",
+    "11、同步API 与 异步API.md",
+    "13、promise（中）.md",
+    "21-用户信息的增删改查（案例）/15、mongoDB数据库.md",
+    "内置对象/04、url 模块.md",
+    "18、修改文档.md",
+    "内置对象/02、路径操作模块.md",
+    "25-学生信息列表页面分析（案例）/01、mac命令.md",
+    "06、模块加载机制.md",
+    "07、服务器.md",
+    "21-用户信息的增删改查（案例）/00、介绍.md",
+    "发布自己的包.md",
+    "内置对象/01、文件操作模块.md",
+    "10、HTTP请求与响应处理.md",
+    "20、集合关联.md",
+    "12、回调地狱（上）.md",
+    "08、web服务器.md"
+  ]
+}
